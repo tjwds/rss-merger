@@ -11,7 +11,7 @@ const rssTemplate = (formattedBuildDate, itemsString) => {
         <description></description>
         <generator>rss-merger</generator>
         <language>en</language>
-        <atom:link href="https://static.joewoods.dev/public/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://rss.joewoods.dev/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>${formattedBuildDate}</lastBuildDate>
         ${itemsString}
     </channel>
