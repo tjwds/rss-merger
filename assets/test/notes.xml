@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title></title>
+        <link>https://notes.joewoods.dev</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://notes.joewoods.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>article roundup: 20210620</title>
+                <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210620/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210620/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;thehustle.co&#x2F;why-is-lumber-so-expensive-right-now&#x2F;amp&#x2F;&quot;&gt;Why is lumber so ridiculously expensive right now?&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.archdaily.com&#x2F;963115&#x2F;brutalism-in-european-schools-and-universities-photographed-by-stefano-perego&quot;&gt;Brutalism in European Schools and Universities, Photographed by Stefano Perego | ArchDaily&lt;&#x2F;a&gt; 
+Filed under: brutalism, architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fivethirtyeight.com&#x2F;features&#x2F;which-home-runs-violated-baseballs-unwritten-rules-the-most&#x2F;&quot;&gt; Baseball’s Most Disrespectful Home Runs&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: baseball&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dnmfarrell.com&#x2F;post&#x2F;modulinos-in-bash&#x2F;&quot;&gt;Modulinos In Bash&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: bash, programming&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.namibian.com.na&#x2F;102610&#x2F;read&#x2F;China-nabs-1-100-for-cryptocurrency-fraud&quot;&gt;China nabs 1 100 for cryptocurrency fraud - The Namibian&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cryptocurrency&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.cpubenchmark.net&#x2F;market_share.html&quot;&gt;PassMark CPU Benchmarks - AMD vs Intel Market Share&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: hardware&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.phillyvoice.com&#x2F;philadelphia-orchestra-kimmel-center-merge-new-company-&#x2F;&quot;&gt;Philadelphia Orchestra to merge with Kimmel Center to ease financial woes | PhillyVoice&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: philly&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.archdaily.com&#x2F;963611&#x2F;sou-fujimoto-architects-reveals-vanishing-design-of-qianhais-new-city-center-landmark&quot;&gt;Sou Fujimoto Architects Reveals Vanishing Design of Qianhai&#x27;s New City Center Landmark | ArchDaily&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hackaday.com&#x2F;2021&#x2F;06&#x2F;17&#x2F;the-ridiculous-gamecube-keyboard-controller-gets-modded&#x2F;&quot;&gt;The Ridiculous GameCube Keyboard Controller Gets Modded | Hackaday&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: hardware&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;labs.birminghammuseums.org.uk&#x2F;2021&#x2F;06&#x2F;16&#x2F;making-a-splash-with-unsplash&#x2F;&quot;&gt;Making a Splash with Unsplash – Experiments at Birmingham Museums Trust&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: museum&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210613</title>
+                <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210613/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210613/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;beyondloom.com&#x2F;tools&#x2F;ditherpaint.html&quot;&gt;DitherPaint&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: tools, cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maxbarry.com&#x2F;2021&#x2F;05&#x2F;26&#x2F;news.html&quot;&gt;Max Barry | My Take on Citizen&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: policing, max-barry&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;major.io&#x2F;2021&#x2F;06&#x2F;06&#x2F;a-new-future-for-icanhazip&#x2F;&quot;&gt;A new future for icanhazip | Major Hayden&#x27;s Blog 🤠&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.washingtonian.com&#x2F;2021&#x2F;06&#x2F;07&#x2F;the-cicadas-are-showing-up-on-the-freaking-radar-now&#x2F;?s=09&quot;&gt;The Cicadas Are Showing Up on the Freaking Radar Now | Washingtonian (DC)&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: meteorology&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.cnbc.com&#x2F;2021&#x2F;06&#x2F;08&#x2F;bitcoin-btc-price-slides-as-us-seizes-most-of-colonial-ransom.html&quot;&gt;Bitcoin (BTC) price slides as US seizes most of Colonial ransom&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cryptocurrency, btc-is-bad&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;casparwre.de&#x2F;blog&#x2F;seo-scam&#x2F;&quot;&gt;The top-ranking HTML editor on Google is an SEO scam | Caspar von Wrede&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: seo&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;syntheticmessenger.labr.io&#x2F;#about&quot;&gt;Synthetic Messenger&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: climate-change&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.mycology.cornell.edu&#x2F;2006&#x2F;11&#x2F;22&#x2F;i-survived-the-destroying-angel&#x2F;&quot;&gt;I survived the “Destroying Angel”&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: food, medicine&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.prnewswire.com&#x2F;news-releases&#x2F;overdrive-to-acquire-kanopy-301309234.html&quot;&gt;OverDrive to Acquire Kanopy&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: libraries, streaming&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@joel.a.berger&#x2F;on-the-danger-of-software-magicians-fd8186b8945c&quot;&gt;On the Danger of Software Magicians | by Joel Berger | Medium&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: programming, best-of, required-reading&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boingboing.net&#x2F;2021&#x2F;06&#x2F;09&#x2F;watch-parachutist-make-an-emergency-landing-in-middle-of-an-active-soccer-game.html&quot;&gt;Watch parachutist make an emergency landing in middle of an active soccer game | Boing Boing&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.mbrt.dev&#x2F;posts&#x2F;chess-eng&#x2F;&quot;&gt;Engineering a chess match against my brother | mbrt blog&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: programming, chess&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.technologyreview.com&#x2F;2021&#x2F;06&#x2F;12&#x2F;1026213&#x2F;anti-vaxxers-negative-yelp-google-reviews-restaurants-bars&#x2F;&quot;&gt;Anti-vaxxers are weaponizing Yelp to punish bars that require vaccine proof | MIT Technology Review&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: covid-19&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dezeen.com&#x2F;2021&#x2F;06&#x2F;12&#x2F;jean-nouvel-henderson-cifi-tiandi-shanghai-architecture&#x2F;&quot;&gt;Jean Nouvel completes plant-covered commercial building in Shanghai&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dezeen.com&#x2F;2021&#x2F;06&#x2F;07&#x2F;japanese-folding-screen-digital-animation-video&#x2F;&quot;&gt;Yusuke Shigeta reinvents traditional folding screen with digital animation&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cool, design&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210606</title>
+                <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210606/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210606/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.virginiamercury.com&#x2F;2021&#x2F;05&#x2F;27&#x2F;heading-for-a-national-park-its-going-to-be-the-biggest-season-in-the-history-of-the-park-service-some-senators-say&#x2F;&quot;&gt;Heading for a national park? It&#x27;s going to be the ‘biggest season in the history of the Park Service,’ some senators say - Virginia Mercury&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2021&#x2F;05&#x2F;28&#x2F;business&#x2F;energy-environment&#x2F;exxon-engine-board.html&quot;&gt;How Exxon Lost a Board Battle With a Small Hedge Fund - The New York Times&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: finance&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.cogapp.com&#x2F;ocrguessr-making-posters-into-a-guessing-game-dfe9ad17d572&quot;&gt;OCRguessr: making posters into a guessing game | by Iain Bean | May, 2021 | cogapp&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.smithsonianmag.com&#x2F;science-nature&#x2F;why-ecologists-are-haunted-rapid-growth-ghost-forests-180977674&#x2F;&quot;&gt;Why Ecologists Are Haunted by the Rapid Growth of Ghost Forests | Science | Smithsonian Magazine&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: climate-change&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dezeen.com&#x2F;2021&#x2F;05&#x2F;30&#x2F;casa-jardin-escandon-apartment-building-cpda-arquitectos-mexico-city&#x2F;&quot;&gt;CPDA Arquitectos incorporates &amp;quot;secret garden&amp;quot; into Mexico City building&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=EJD77Ckbqxg&quot;&gt;Hong Kong BLOCKS &#x2F; Experimental short film (Public housing) - YouTube&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.discord.com&#x2F;discover-the-next-great-community-in-stage-discovery-8ad0b95fca46&quot;&gt;Discover the Next Great Community in Stage Discovery | by Nelly | Jun, 2021 | Discord Blog&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2021&#x2F;06&#x2F;02&#x2F;magazine&#x2F;your-hometown-deli.html&quot;&gt;The Mystery of the $113 Millıon Deli - The New York Times&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: finance, future-history&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;riedel.wtf&#x2F;iphone-12-pro-in-canal-magsafe-fishing-rod&#x2F;&quot;&gt;How we used MagSafe fishing to find and recover an iPhone 12 Pro from the canal in Berlin | riedel.wtf&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: apple&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.designboom.com&#x2F;architecture&#x2F;waa-warehouse-beijing-experiential-playscape-children-06-05-2021&#x2F;&quot;&gt;waa transforms beijing warehouse into experiential playscape for children&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;hillelogram&#x2F;status&#x2F;1400167722705723400&quot;&gt;Hillel on Twitter: &amp;quot;WHAT CHOCOLATIERING TAUGHT ME ABOUT SOFTWARE ENGINEERING In my free time, I&#x27;m an avid chocolatier. I&#x27;ve been making chocolates since 2012, about as long as I&#x27;ve professionally programmed. I hand out homemade confections at (domestic) s&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: programming&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;OObwqreAJ48&quot;&gt;Watch &amp;quot;You Don&#x27;t Need to Own a Car if You Don&#x27;t Drive to Work - Carsharing&amp;quot; on YouTube&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: automotive, future-history&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hackaday.com&#x2F;2021&#x2F;06&#x2F;05&#x2F;a-commodore-64-as-you-have-never-seen-one-before-game-boy-form-factor&#x2F;&quot;&gt;A Commodore 64 As You Have Never Seen One Before: Game Boy Form Factor! | Hackaday&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: technology, cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;the-rectangle-behind-you&#x2F;the-making-of-four-laps-e20dd59271af&quot;&gt;The making of Four Laps. On May 27, during an internal light… | by Marcin Wichary | The rectangle behind you | May, 2021 | Medium&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: awesome, music, required-reading&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;believermag.com&#x2F;the-party&#x2F;&quot;&gt;The Party - Believer Magazine&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: comic, memoir&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210530</title>
+                <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210530/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210530/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mcsweeneys.net&#x2F;articles&#x2F;the-completely-normal-totally-reasonable-unwritten-rules-of-baseball&quot;&gt;The Completely Normal, Totally Reasonable Unwritten Rules of Baseball - McSweeney’s Internet Tendency&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: sports, baseball, funny&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dnalounge.com&#x2F;backstage&#x2F;log&#x2F;2021&#x2F;05&#x2F;25.html&quot;&gt;DNA Lounge: 25-May-2021 (Tue): Wherein we have a new POS&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: payment-processors&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dezeen.com&#x2F;2021&#x2F;05&#x2F;26&#x2F;vessel-reopens-buddy-system-prevent-suicides-new-york&#x2F;&quot;&gt;The Vessel to reopen in New York with buddy system&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture, parks, nyc&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;river-runner.samlearner.com&#x2F;&quot;&gt;River Runner&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;drop a raindrop anywhere in the USA, watch where it ends up&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Filed under: geography, usa, climate&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;everydayexperiments.com&#x2F;invisible-roommates&quot;&gt;Everyday Experiments&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: art, design, awesome, nicole-he&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;LsGZ_2RuJ2A&quot;&gt;Watch &amp;quot;Episode 1 : Salad Mug - DYNAMO DREAM&amp;quot; on YouTube&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: art, sci-fi&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;goodereader.com&#x2F;blog&#x2F;kindle&#x2F;why-do-you-need-to-disable-javascript-on-the-kindle-browser&quot;&gt;Why do you need to disable JavaScript on the Kindle Browser? - Good e-Reader&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+(for performance reasons)&lt;br &#x2F;&gt;
+Filed under: amazon, ereader&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=s46QPk_p_cU&amp;amp;t=30s&quot;&gt;Cherry Coke - 1985 Commercial - YouTube&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210523</title>
+                <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210523/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210523/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.msn.com&#x2F;en-us&#x2F;money&#x2F;smallbusiness&#x2F;the-man-who-didnt-invent-flamin-hot-cheetos&#x2F;ar-BB1gMYd1&quot;&gt;The man who didn&#x27;t invent Flamin&#x27; Hot Cheetos&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: food, history, required-reading&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dezeen.com&#x2F;2021&#x2F;05&#x2F;20&#x2F;gianfranco-vasselli-console-lg-display-oleds-go-competition-video&#x2F;&quot;&gt;Gianfranco Vasselli incorporates OLED display into wood shelf&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: design&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hackaday.com&#x2F;2021&#x2F;05&#x2F;19&#x2F;transparent-hard-drive-gives-peek-at-the-platters&#x2F;&quot;&gt;Transparent Hard Drive Gives Peek At The Platters | Hackaday&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: hardware, cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.technologyreview.com&#x2F;2021&#x2F;05&#x2F;21&#x2F;1025180&#x2F;this-animated-chart-shows-how-the-worlds-vaccine-rollout-is-going&#x2F;&quot;&gt;This is how the vaccine rollout is going around the world | MIT Technology Review&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: covid-19, future-history, dataviz&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.irishtimes.com&#x2F;sport&#x2F;soccer&#x2F;the-story-of-a-village-team-challenging-for-the-polish-title-1.2966527&quot;&gt;The story of a village team challenging for the Polish title&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: soccer&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Bypassing DevKinsta&#x27;s 128 MB upload restriction</title>
+                <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/programming/devkinsta-upload-limit/</link>
+                <guid>https://notes.joewoods.dev/programming/devkinsta-upload-limit/</guid>
+                <description>&lt;p&gt;I&#x27;m working on a WordPress site that has a &lt;em&gt;lot&lt;&#x2F;em&gt; of content in it.  The thing is, there&#x27;s now more than one person looking at the staging server I&#x27;ve set up on a random DigitalOcean droplet… so I wanted to be able to do some theme development locally, then eventually plop the new theme on the staging server.&lt;&#x2F;p&gt;
+&lt;p&gt;I figured I&#x27;d give &lt;a href=&quot;https:&#x2F;&#x2F;kinsta.com&#x2F;devkinsta&#x2F;&quot;&gt;DevKinsta&lt;&#x2F;a&gt; a shout.  I haven&#x27;t had a lot of luck with Docker, but DevKinsta&#x27;s branding is really cool, so that alone made me download it and fire it up.&lt;&#x2F;p&gt;
+&lt;p&gt;The problem I ran into:  I&#x27;m using the &amp;quot;All-in-One WP Migration&amp;quot; plugin to back up the work on this staging server, right?  &amp;quot;I&#x27;ll just pop that backup into my local devkinsta WordPress instance and it should just work, right?&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Wrong!&lt;&#x2F;p&gt;
+&lt;p&gt;Everywhere, I see the dreaded maximum upload file size:  128 MB.&lt;&#x2F;p&gt;
+&lt;p&gt;Normally, that would be a lot of bytes, but it turns out, this site is huge — our take-out clocks in at just over 162 MB.  Wolfram Alpha informs me that that&#x27;s about a quarter of the capacity of a compact disk.&lt;&#x2F;p&gt;
+&lt;p&gt;So:  how do we solve this?  DevKinsta has, at its core, a bunch of Docker containers talking to each other.  We need to update values in two of those containers:  &lt;code&gt;devkinsta_nginx&lt;&#x2F;code&gt; and &lt;code&gt;devkinsta_fpm&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Fortunately, you can execute arbitrary commands in Docker containers from the command line.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;update-the-nginx-config&quot;&gt;Update the nginx config&lt;&#x2F;h2&gt;
+&lt;p&gt;First, let&#x27;s invoke:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;docker exec -i devkinsta_nginx cat &#x2F;etc&#x2F;nginx&#x2F;nginx.conf &amp;gt; temp.conf&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Edit temp.conf, find the line which reads &lt;code&gt;client_max_body_size 128M;&lt;&#x2F;code&gt; and bump it up to, say, 256M.&lt;&#x2F;p&gt;
+&lt;p&gt;Pipe your edited file back into the Docker container:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;docker exec -i devkinsta_nginx sh -c &#x27;cat &amp;gt; &#x2F;etc&#x2F;nginx&#x2F;nginx.conf&#x27; &amp;lt; temp.conf&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;update-the-fpm-config&quot;&gt;Update the fpm config&lt;&#x2F;h2&gt;
+&lt;p&gt;Next, let&#x27;s work on fpm.  This is the one I was least sure about — if anyone thinks that any of these steps aren&#x27;t actually necessary, please let me know!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Note:  I&#x27;m running php 7.4&lt;&#x2F;strong&gt; in DevKinsta — you may need to change &lt;code&gt;7.4&lt;&#x2F;code&gt; in all of the commands below to whichever version you&#x27;re running.&lt;&#x2F;p&gt;
+&lt;p&gt;Let&#x27;s do the same thing to get the file we need to edit:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;docker exec -i devkinsta_fpm cat &#x2F;etc&#x2F;php&#x2F;7.4&#x2F;fpm&#x2F;php.ini &amp;gt; temp.ini&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;(or, again, substitute in whichever version you&#x27;re running for &lt;code&gt;7.4&lt;&#x2F;code&gt;)&lt;&#x2F;p&gt;
+&lt;p&gt;Edit temp.ini and make sure these values are set high enough:  &lt;code&gt;upload_max_filesize&lt;&#x2F;code&gt;, &lt;code&gt;memory_limit&lt;&#x2F;code&gt;, &lt;code&gt;post_max_size&lt;&#x2F;code&gt;.  I set them all to &lt;code&gt;256M&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Put it back:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;docker exec -i devkinsta_fpm sh -c &#x27;cat &amp;gt; &#x2F;etc&#x2F;php&#x2F;7.4&#x2F;fpm&#x2F;php.ini&#x27; &amp;lt; temp.ini&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I believe DevKinsta also set up an additional configuration file that we need to change too:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;docker exec -i devkinsta_fpm cat &#x2F;etc&#x2F;php&#x2F;7.4&#x2F;fpm&#x2F;conf.d&#x2F;tuning.ini &amp;gt; temp.ini&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Update those three values (&lt;code&gt;upload_max_filesize&lt;&#x2F;code&gt;, &lt;code&gt;memory_limit&lt;&#x2F;code&gt;, &lt;code&gt;post_max_size&lt;&#x2F;code&gt;) here as well.&lt;&#x2F;p&gt;
+&lt;p&gt;Put it back:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;docker exec -i devkinsta_fpm sh -c &#x27;cat &amp;gt; &#x2F;etc&#x2F;php&#x2F;7.4&#x2F;fpm&#x2F;conf.d&#x2F;tuning.ini&#x27; &amp;lt; temp.ini&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;restart-everything&quot;&gt;Restart everything&lt;&#x2F;h2&gt;
+&lt;p&gt;Finally, just restart some stuff:&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;span style=&quot;color:#c0c5ce;&quot;&gt;docker exec -i devkinsta_fpm service php7.4-fpm reload
+docker exec -i devkinsta_nginx service nginx reload
+&lt;&#x2F;span&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Go back to your local DevKinsta WordPress instance, refresh the page, and you should see your updated file size limit!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;that-s-all&quot;&gt;That&#x27;s all&lt;&#x2F;h2&gt;
+&lt;p&gt;I&#x27;m not going to lie, figuring this out made me feel &lt;em&gt;really&lt;&#x2F;em&gt; great.  Look, I mostly write javascript — I don&#x27;t really look at servers that often, so this was a big one for me!&lt;&#x2F;p&gt;
+&lt;p&gt;Kinsta, if you&#x27;re listening, any chance you could bump this limit up a bit? ;-)&lt;&#x2F;p&gt;
+&lt;p&gt;Thanks for reading!  Please reach out with any comments at joewoods at fastmail.com.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210516</title>
+                <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210516/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210516/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.designboom.com&#x2F;architecture&#x2F;seven-ruined-palaces-reconstructed-05-08-2021&#x2F;&quot;&gt;experience seven ruined palaces around the world, reconstructed&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: history&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.robinhobb.com&#x2F;blog&#x2F;posts&#x2F;38429&quot;&gt;The Animal is tired - Robin Hobb&#x27;s Infrequent and Off Topic Blog&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: life, aging&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dwell.com&#x2F;article&#x2F;homb-prefabs-taft-residence-skylab-architecture-method-homes-b6d503d6&quot;&gt;HOMB Prefabs by Skylab Architecture and Method Homes - Dwell&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture, design&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.wired.com&#x2F;2008&#x2F;05&#x2F;man-allegedly-b&#x2F;&quot;&gt;Man Allegedly Bilks E-trade, Schwab of $50,000 by Collecting Lots of Free &#x27;Micro-Deposits&#x27; (2008) | WIRED&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+via Now I Know&lt;br &#x2F;&gt;
+Filed under: crime, money&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;artsexperiments.withgoogle.com&#x2F;nonsense-laboratory&#x2F;&quot;&gt;Nonsense Laboratory&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cool, ml, google&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;archinect.com&#x2F;firms&#x2F;project&#x2F;150238487&#x2F;guizhou-fire-station&#x2F;150263027&quot;&gt;Guizhou Fire Station | West-line Studio | Archinect&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.designboom.com&#x2F;architecture&#x2F;kisho-kurokawa-nakagin-capsule-tower-tokyo-faces-demolition-05-12-2021&#x2F;&quot;&gt;kisho kurokawa&#x27;s iconic nakagin capsule tower in tokyo faces demolition&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maxbarry.com&#x2F;2021&#x2F;05&#x2F;12&#x2F;news.html&quot;&gt;Max Barry | Have I Told You About My Robot Vacuum Cleaner?&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: fiction&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;schemeflood.com&#x2F;&quot;&gt;External Protocol Flooding Vulnerability Demo&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: security&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;soranews24.com&#x2F;2021&#x2F;05&#x2F;11&#x2F;the-pros-and-cons-of-living-in-nakagin-capsule-tower-an-architectural-marvel-in-tokyo&#x2F;&quot;&gt;The pros and cons of living in Nakagin Capsule Tower, an architectural marvel in Tokyo | SoraNews24 -Japan News-&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture, japan&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2021&#x2F;05&#x2F;14&#x2F;sports&#x2F;soccer&#x2F;the-lost-days-of-raul-jimenez.html&quot;&gt;The Lost Days of Raúl Jiménez - The New York Times&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: soccer&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210509</title>
+                <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210509/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210509/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.designboom.com&#x2F;art&#x2F;photographer-manuel-alvarez-diestro-new-cities-inside-high-speed-trains-china-05-02-2021&#x2F;&quot;&gt;manuel alvarez diestro captures new cities from inside high speed trains in china&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: photography, china&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2021&#x2F;05&#x2F;02&#x2F;insider&#x2F;sunday-newspapers.html&quot;&gt;When The Times Didn’t Print on Sundays - The New York Times&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: history&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;cybernews.com&#x2F;security&#x2F;how-we-applied-to-work-with-ransomware-gang&#x2F;&quot;&gt;Ransomware Gangs: We Applied for a Job With One Online | CyberNews&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: security&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;billypenn.com&#x2F;2021&#x2F;05&#x2F;04&#x2F;imposter-posed-as-nyc-art-curator-to-spread-supposed-news-of-missing-picasso-in-philly&#x2F;&quot;&gt;Imposter posed as NYC art curator to spread supposed news of &#x27;missing Picasso&#x27; in Philly - On top of Philly news&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: philly, art&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.inquirer.com&#x2F;politics&#x2F;clout&#x2F;ben-jerrys-mister-softee-philadelphia-district-attorney-race-20210505.html&quot;&gt;Ben Cohen of Ben &amp;amp; Jerry&#x27;s blasts Mister Softee over Philadelphia District Attorney&#x27;s race&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2021&#x2F;05&#x2F;07&#x2F;nyregion&#x2F;coronavirus-birdwatching-hawks-nyc.html&quot;&gt;He Wasn’t a Bird Person. Then a Hawk Built a Nest on His Fire Escape. - The New York Times&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;zx&quot;&gt;GitHub - google&#x2F;zx: A tool for writing better scripts&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: tool, cool, js&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.smithsonianmag.com&#x2F;smart-news&#x2F;amazon-rainforest-now-emits-more-greenhouse-gases-it-absorbs-180977347&#x2F;&quot;&gt;The Amazon Rainforest Now Emits More Greenhouse Gases Than It Absorbs | Smart News | Smithsonian Magazine&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: climate-change&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;backreaction.blogspot.com&#x2F;2021&#x2F;05&#x2F;dark-matter-situation-has-changed.html?m=1&quot;&gt;Sabine Hossenfelder: Backreaction: Dark Matter: The Situation Has Changed&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: physics&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210502</title>
+                <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210502/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210502/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;onezero.medium.com&#x2F;party-in-a-shared-google-doc-d576c565706e&quot;&gt;Party in a Shared Google Doc. What if no one comes? | by Marie Foulston | OneZero&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.theatlantic.com&#x2F;technology&#x2F;archive&#x2F;2021&#x2F;04&#x2F;how-yahoo-became-internet-villain&#x2F;618681&#x2F;&quot;&gt;How Yahoo Became an Internet Villain - The Atlantic&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: internet-history&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maxbarry.com&#x2F;2021&#x2F;04&#x2F;22&#x2F;news.html&quot;&gt;Max Barry | Who Deserves Better Healthcare&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: satire, medicine&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2021&#x2F;04&#x2F;27&#x2F;technology&#x2F;daniel-kaminsky-dead.html&quot;&gt;Daniel Kaminsky, Internet Security Savior, Dies at 42 - The New York Times&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;slate.com&#x2F;technology&#x2F;2021&#x2F;04&#x2F;american-crossword-puzzle-tournament-dr-fill-artificial-intelligence.html&quot;&gt;Dr. Fill, an A.I., won the American Crossword Puzzle Tournament. Here’s how.&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+RT @ollie: the long, puzzling journey of dr. fill:&lt;br &#x2F;&gt;
+Filed under: future-history, crossword&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;bitcoin-fog-dark-web-cryptocurrency-arrest&#x2F;&quot;&gt;Feds Arrest an Alleged $336M Bitcoin-Laundering Kingpin | WIRED&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The case shows yet another example of how Bitcoin, once widely believed to be a powerful tool for making anonymous, untraceable transactions, has turned out to be in many cases the very opposite. The blockchain&#x27;s ledger of all Bitcoin transactions since the cryptocurrency&#x27;s creation has often instead served as a means for law enforcement to trace even years-old transactions.&lt;br &#x2F;&gt;
+Filed under: bitcoin, law&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.gq.com&#x2F;story&#x2F;worlds-greatest-jailbreak-artist-redoine-faid&quot;&gt;The Secrets of the World&#x27;s Greatest Jailbreak Artist | GQ&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The descriptor employed by the ministry of justice in its subsequent audit is sidération, an archaic word that refers to the state of being “planet-struck.”&lt;br &#x2F;&gt;
+Filed under: crime, france&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;layerci.com&#x2F;blog&#x2F;crypto-miners-are-killing-free-ci&#x2F;&quot;&gt;Crypto miners are killing free CI&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: programming, ci&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.tglyn.ch&#x2F;blog&#x2F;amstel_gold&#x2F;&quot;&gt;Who won the Amstel Gold Race? Human error in photo-finishes - Tom Lynch&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: best-of, games&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;doersino.github.io&#x2F;tixyz&#x2F;&quot;&gt;(t,i,x,y,z) =&amp;gt; &amp;quot;creative code golfing&amp;quot;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cool, programming, javascript&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.architecturaldigest.com&#x2F;story&#x2F;artist-faked-billionaire-photograph-new-york-citys-best-views&quot;&gt;This Artist Faked Being a Billionaire to Photograph New York City&#x27;s Best Views | Architectural Digest&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boingboing.net&#x2F;2021&#x2F;04&#x2F;29&#x2F;watch-this-1-minute-time-lapse-of-a-4-year-performing-arts-center-construction-project.html&quot;&gt;Watch this 1-minute time-lapse of a 4-year performing arts center construction project | Boing Boing&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2021&#x2F;04&#x2F;30&#x2F;business&#x2F;japan-7-eleven.html&quot;&gt;A Grudge Match in Japan: One Corner, Two 7-Elevens - The New York Times&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.designboom.com&#x2F;architecture&#x2F;suspended-house-milad-eshtiyaghi-mendocino-california-04-29-2021&#x2F;&quot;&gt;milad eshtiyaghi envisions a glass-bottomed house suspended over a cliff&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;wildlife-photographer-review-new-pokemon-snap-photos&#x2F;&quot;&gt;A Wildlife Photographer Critiqued Our &#x27;New Pokémon Snap&#x27; Photos | WIRED&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: best-of, video-games, funny, pokemon&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210425</title>
+                <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210425/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210425/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dezeen.com&#x2F;2021&#x2F;04&#x2F;18&#x2F;mn15-ibirapuera-konigsberger-vannucchi&#x2F;&quot;&gt;Shifted balconies wrap São Paulo tower by Königsberger Vannucchi&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.granolashotgun.com&#x2F;granolashotguncom&#x2F;takings&quot;&gt;“Takings” — GS&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Really good read on an issue I knew nothing about — even if there are a few points here I disagree with&lt;br &#x2F;&gt;
+Filed under: politics, san-francisco, housing&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;they-hacked-mcdonalds-ice-cream-makers-started-cold-war&#x2F;&quot;&gt;They Hacked McDonald’s Ice Cream Machines—and Started a Cold War | WIRED&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;world-europe-56822571&quot;&gt;Italian hospital employee accused of skipping work for 15 years - BBC News&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.archdaily.com&#x2F;960489&#x2F;dio-cafe-and-bar-finorm-studio&quot;&gt;Dio Cafe &amp;amp; Bar &#x2F; Finorm Studio | ArchDaily&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;7a3JiGTE9sc&quot;&gt;Watch &amp;quot;ferrofluid display cell bluetooth speaker&amp;quot; on YouTube&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cool, hardware, music&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;100r.co&#x2F;site&#x2F;woodstove_installation.html&quot;&gt;100R — woodstove installation&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: diy, environment&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;goodereader.com&#x2F;blog&#x2F;kindle&#x2F;will-you-use-amazon-kindle-vella&quot;&gt;Will you use Amazon Kindle Vella? - Good e-Reader&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: amazon, publishing&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;runrepeat.com&#x2F;refereeing-analysis-post-covid-soccer&quot;&gt;Referees’ Home-Bias in Football Disappears without Audience [Study] | RunRepeat&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: sport&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>RSS feeds from large publications</title>
+                <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/musings/large-publication-rss-feeds/</link>
+                <guid>https://notes.joewoods.dev/musings/large-publication-rss-feeds/</guid>
+                <description>&lt;p&gt;At the time of writing, I subscribe to both The New York Times and WIRED Magazine.  Both of these publications publish quite frequently — WIRED, 283 items per month, and the NY Times a staggering 6,019 items per month.&lt;&#x2F;p&gt;
+&lt;p&gt;No disrespect intended toward the editors and authors over at the Times, but I&#x27;m just not interested in subscribing to the &amp;quot;Food&amp;quot; category, but the &amp;quot;Wordplay&amp;quot; category is firmly within my interests and is essentially a huge portion of the reason why I&#x27;m now giving them money.  But if I wanted to subscribe to only a few sections — say, &amp;quot;Politics&amp;quot; and &amp;quot;Technology&amp;quot; — there&#x27;s quite often a bit of overlap, and the same article ends up in my Feedbin unreads multiple times.&lt;&#x2F;p&gt;
+&lt;p&gt;The solution to this is just to embrace the fire hose.  It doesn&#x27;t take more than a fraction of a second for me to see that I don&#x27;t actually want to engage with an article from its headline and press the &lt;code&gt;j&lt;&#x2F;code&gt; key to move on to the next one.&lt;&#x2F;p&gt;
+&lt;p&gt;It actually took a bit of digging for me to be able to subscribe to the &amp;quot;all content&amp;quot; feeds for these two, so I&#x27;ll list the feed locations here:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The New York Times:  &lt;a href=&quot;https:&#x2F;&#x2F;content.api.nytimes.com&#x2F;svc&#x2F;news&#x2F;v3&#x2F;all&#x2F;recent.rss&quot;&gt;https:&#x2F;&#x2F;content.api.nytimes.com&#x2F;svc&#x2F;news&#x2F;v3&#x2F;all&#x2F;recent.rss&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;WIRED:  &lt;a href=&quot;https:&#x2F;&#x2F;www.wired.com&#x2F;feed&quot;&gt;https:&#x2F;&#x2F;www.wired.com&#x2F;feed&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Semicolon style</title>
+                <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/programming/semicolon-style/</link>
+                <guid>https://notes.joewoods.dev/programming/semicolon-style/</guid>
+                <description>&lt;p&gt;We software developers have become incredibly attuned to the types of opinions which can lead to what the industry refers to as &amp;quot;holy wars.&amp;quot;  I don&#x27;t need to list any examples, because you already have one in the front of your mind, but here&#x27;s one:  Windows vs. macOS.&lt;&#x2F;p&gt;
+&lt;p&gt;Some of these opinions are merely personal, like the terminal-based interactive editor of choice.  Others, however, impact the folks around you.  These are mostly questions of code style, though it can expand into other fields as well.  When these opinions can become decrees, I watch most developers settle into a pattern of &amp;quot;anything is fine as long as it&#x27;s not offensive and we somehow standardize it in a preferably automated way (though we all know that my opinion is clearly correct).&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;This is why we end up with multiple conflicting code style libraries, even in languages that have code style baked into the syntax itself.&lt;&#x2F;p&gt;
+&lt;p&gt;JavaScript does not have the luxury of having unification baked into the language.  There are so many considerations when looking at JavaScript code style:  which devices do we want this code to run on?  how will we transform it?  which tool will we use to standardize the code style, and which set of rules will we apply with that tool?&lt;&#x2F;p&gt;
+&lt;p&gt;I have come bearing a great gift that will firmly end all of these conversations, which is a single golden rule:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;All lines of JavaScript code must be exactly 80 characters long, with leading and trailing whitespace replaced by semicolons.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;By following this rule, nothing else matters.  Who cares if a line should end in a semicolon?  It will end in several semicolons.  Who cares if final element in an array has a trailing comma?  Look at all those semicolons.  Should an if block&#x27;s curly brace exist on the same line as the conditional?  It must, otherwise the proceeding block will always be executed!&lt;&#x2F;p&gt;
+&lt;p&gt;Here is a toy example:&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;span style=&quot;color:#b48ead;&quot;&gt;const &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;fizzBuzz &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= (limit) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;=&amp;gt; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;{;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;for &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;let &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;num &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;num &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;&amp;lt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;limit&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;num&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;++) {;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;num &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;% &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;15 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;=== &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;) {;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;console.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;log&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;FizzBuzz&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;&amp;#39;);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;} &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;else if &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;num &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;% &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;5 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;=== &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;) {;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;console.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;log&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;Buzz&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;&amp;#39;);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;} &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;else if &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;num &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;% &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;3 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;=== &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;) {;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;console.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;log&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;Fizz&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;&amp;#39;);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;} &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;else &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;{;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;console.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;log&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;num&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;};;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;};;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+};;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;fizzBuzz&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;100&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+&lt;&#x2F;span&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The logical next step is to create rules for js code formatters to enforce this style.  Thank you for volunteering.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210418</title>
+                <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210418/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210418/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dampfkraft.com&#x2F;posuto.html&quot;&gt;Parsing the Infamous Japanese Postal CSV&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: funny, programming&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tc39&#x2F;proposal-pattern-matching&quot;&gt;tc39&#x2F;proposal-pattern-matching: Pattern matching syntax for ECMAScript&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: programming, js&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.jenkemmag.com&#x2F;home&#x2F;2021&#x2F;01&#x2F;25&#x2F;discussing-skateboarding-werner-herzog&#x2F;&quot;&gt;DISCUSSING SKATEBOARDING WITH FILMMAKER WERNER HERZOG - Jenkem Magazine&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: art, culture, funny, skateboarding&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.polygon.com&#x2F;animation-cartoons&#x2F;22371710&#x2F;strong-bad-email-homestar-runner&quot;&gt;Strong Bad Emails and Homestar Runner videos will always be funny - Polygon&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: internet-history, comedy&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jacobian.org&#x2F;2021&#x2F;apr&#x2F;7&#x2F;embrace-the-grind&#x2F;&quot;&gt;Embrace the Grind - Jacob Kaplan-Moss&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: career, programming&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;grillopress.github.io&#x2F;2021&#x2F;03&#x2F;26&#x2F;dont-let-your-design-system-seem-complete.html&quot;&gt;GrilloPress - Don&#x27;t let your design system seem complete&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: design&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boingboing.net&#x2F;2021&#x2F;04&#x2F;15&#x2F;watch-this-bittersweet-video-of-the-philadelphia-inquirer-printing-presss-final-run.html&quot;&gt;Watch this bittersweet video of the Philadelphia Inquirer printing press&#x27;s final run | Boing Boing&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: philly, sad&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2021&#x2F;04&#x2F;15&#x2F;us&#x2F;missing-hiker-found.html&quot;&gt;Hiker Rescued After Man Uses Photo to Pinpoint His Location - The New York Times&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;512pixels.net&#x2F;2021&#x2F;04&#x2F;mac-chimes-of-death&#x2F;&quot;&gt;Mac Chimes of Death – 512 Pixels&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: apple&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;business-connecticut-wildlife-animals-meat-processing-7df15590ed4a11ed24b39809bf9d144b&quot;&gt;After months on lam, slaughterhouse escapee beefalo caught&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Police said the beefalo will be heading to Massachusetts for a veterinary exam and will then be sent to the Critter Critter Creek Farm Sanctuary in Gainesville, Florida.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;qz.com&#x2F;1176962&#x2F;map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world&#x2F;&quot;&gt;History of the word &amp;quot;tea&amp;quot;: How the word &amp;quot;tea&amp;quot; spread over land and sea — Quartz&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: history, language, cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dekuNukem&#x2F;bob_cassette_rewinder&quot;&gt;dekuNukem&#x2F;bob_cassette_rewinder: Renew and Refill Bob Cassette for a fraction of the cost!&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: awesome, re, hardware&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.gq.com&#x2F;story&#x2F;team-canada-olympic-uniforms-graffiti&quot;&gt;Team Canada&#x27;s Olympic Uniforms Are the Wrong Kind of Canadian Tuxedo | GQ&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: fashion&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;current.org&#x2F;2015&#x2F;06&#x2F;a-top-audio-engineer-explains-nprs-signature-sound&#x2F;&quot;&gt;A top audio engineer explains NPR’s signature sound | Current&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;JonErlichman&#x2F;status&#x2F;1383457845081825285&quot;&gt;Jon Erlichman on Twitter: &amp;quot;Blockbuster stores over 30 years: https:&#x2F;&#x2F;t.co&#x2F;rDfiO07525&amp;quot; &#x2F; Twitter&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: dataviz&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210411</title>
+                <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210411/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210411/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.designboom.com&#x2F;architecture&#x2F;thomas-randall-page-studio-for-sculptor-father-rural-devon-04-02-2021&#x2F;&quot;&gt;thomas randall-page designs a studio for his sculptor father in rural devon&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: design, architecture&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boingboing.net&#x2F;2021&#x2F;04&#x2F;06&#x2F;watch-this-amazing-rescue-dutch-cargo-ship-dramatically-abandoned.html&quot;&gt;Watch this amazing rescue: Dutch cargo ship dramatically abandoned | Boing Boing&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boingboing.net&#x2F;2021&#x2F;04&#x2F;06&#x2F;the-state-birds-are-garbage.html&quot;&gt;&amp;quot;The State Birds are Garbage&amp;quot; | Boing Boing&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: funny, ornithology&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.stephendiehl.com&#x2F;blog&#x2F;signal.html&quot;&gt;Et tu, Signal?&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cryptocurrency, best-of, required-reading&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.esquire.com&#x2F;entertainment&#x2F;a36053000&#x2F;yahoo-answers-shutting-down-mbmbam-my-brother-my-brother-and-me-tribute-justin-mcelroy&#x2F;?s=09&quot;&gt;Justin McElroy On What MBMBAM Will Do After Yahoo Answers Shuts Down&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: humor&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.cbc.ca&#x2F;radio&#x2F;asithappens&#x2F;as-it-happens-wednesday-edition-1.5978289&#x2F;this-man-is-looking-for-the-friends-who-shipped-him-overseas-in-a-crate-in-1965-1.5978296&quot;&gt;This man is looking for the friends who shipped him overseas in a crate in 1965 | CBC Radio&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: funny&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.augustachronicle.com&#x2F;lifestyle&#x2F;20190316&#x2F;your-story-why-did-11-days-disappear-in-1752&quot;&gt;Your story: Why did 11 days disappear in 1752? - Lifestyle - The Augusta Chronicle - Augusta, GA&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: history, trivia&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;chadscira.com&#x2F;post&#x2F;6071ebdf008c1f872800483d&#x2F;What-happens-after-a-bank-closes-all-of-your-credit-cards-#&quot;&gt;What happens after a bank closes all of your credit cards? | Chad Scira&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: bug-reporting, vulnerability, finance&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210404</title>
+                <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210404/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210404/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.theregister.com&#x2F;2015&#x2F;02&#x2F;26&#x2F;my_aunt_was_a_human_assembler_at_nasa&#x2F;&quot;&gt;Assemblers were once people: My aunt did it for NASA • The Register&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: programming, cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hackaday.com&#x2F;2021&#x2F;03&#x2F;28&#x2F;to-lovers-of-small-boxes-a-3d-printable-design-just-for-you&#x2F;&quot;&gt;To Lovers Of Small Boxes: A 3D Printable Design Just For You | Hackaday&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Wow, I really wish I had space in my apartment for a 3d printer now&lt;br &#x2F;&gt;
+Filed under: cool, design&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2021&#x2F;03&#x2F;28&#x2F;world&#x2F;americas&#x2F;brazil-amazon.html?referringSource=articleShare&quot;&gt;His Plane Crashed in the Amazon. Then Came the Hard Part. - The New York Times&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hackaday.com&#x2F;2021&#x2F;03&#x2F;29&#x2F;wet-country-wireless-how-the-british-weather-killed-a-billion-pound-tech-company&#x2F;&quot;&gt;Wet Country Wireless; How The British Weather Killed A Billion Pound Tech Company | Hackaday&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: interesting, telecom&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;unsplash.com&#x2F;blog&#x2F;unsplash-getty&#x2F;&quot;&gt;Unsplash is being acquired by Getty Images&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: unsplash&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;birchb1024&#x2F;frangipanni&quot;&gt;birchb1024&#x2F;frangipanni: Program to convert lines of text into a tree structure.&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: tools, cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.joshwcomeau.com&#x2F;animation&#x2F;3d-button&#x2F;&quot;&gt;Building a Magical 3D button with HTML and CSS&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: design, css&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;tom7.org&#x2F;lowercase&#x2F;&quot;&gt;Uppestcase and Lowestcase Letters: Advances in Derp Learning&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: ml, typography, funny, best-of, best-of-best-of, sigbovik, tom7&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;cfenollosa.com&#x2F;blog&#x2F;fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html&quot;&gt;Fed up with the Mac, I spent six months with a Linux laptop. The grass is not greener on the other side&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: linux, macos&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hackaday.com&#x2F;2021&#x2F;03&#x2F;31&#x2F;classic-triumph-gets-a-modern-digital-dash&#x2F;&quot;&gt;Classic Triumph Gets A Modern Digital Dash | Hackaday&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cars, project-car, cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lokl.dev&#x2F;&quot;&gt;Lokl, a WordPress development tool&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: docker, wordpress, tool, cool&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>electronic internet radio stations</title>
+                <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/music/electronic-internet-radio/</link>
+                <guid>https://notes.joewoods.dev/music/electronic-internet-radio/</guid>
+                <description>&lt;h2 id=&quot;afrika-boom&quot;&gt;Afrika-Boom&lt;&#x2F;h2&gt;
+&lt;p&gt;Website: &lt;a href=&quot;http:&#x2F;&#x2F;www.afrika-boom.com&#x2F;&quot;&gt;http:&#x2F;&#x2F;www.afrika-boom.com&#x2F;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Direct audio link: &lt;a href=&quot;http:&#x2F;&#x2F;stream.radio.co&#x2F;se53fee01d&#x2F;listen&quot;&gt;http:&#x2F;&#x2F;stream.radio.co&#x2F;se53fee01d&#x2F;listen&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Radio Garden link: &lt;a href=&quot;http:&#x2F;&#x2F;radio.garden&#x2F;listen&#x2F;afrika-boom&#x2F;E7050gZY&quot;&gt;http:&#x2F;&#x2F;radio.garden&#x2F;listen&#x2F;afrika-boom&#x2F;E7050gZY&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Afrika-Boom is an internet radio station based out of Windhoek, Namibia.  From the sets that I&#x27;ve heard on it, it mostly features house-like tracks that are good to work to, but aren&#x27;t necessarily trance or ambient.  I&#x27;ve only been listening to this station for a short time now, but I&#x27;ve already discovered quite a few tracks through it that I really like and have made it onto my &amp;quot;electronic to listen to while getting stuff done&amp;quot; playlist.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-lot-radio&quot;&gt;The Lot Radio&lt;&#x2F;h2&gt;
+&lt;p&gt;Website: &lt;a href=&quot;https:&#x2F;&#x2F;www.thelotradio.com&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.thelotradio.com&#x2F;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Direct audio link: &lt;a href=&quot;http:&#x2F;&#x2F;thelot.out.airtime.pro:8000&#x2F;thelot_a&quot;&gt;http:&#x2F;&#x2F;thelot.out.airtime.pro:8000&#x2F;thelot_a&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Radio Garden link: &lt;a href=&quot;http:&#x2F;&#x2F;radio.garden&#x2F;listen&#x2F;the-lot-radio&#x2F;xgH6sD5l&quot;&gt;http:&#x2F;&#x2F;radio.garden&#x2F;listen&#x2F;the-lot-radio&#x2F;xgH6sD5l&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;You don&#x27;t need me to tell you how cool The Lot Radio is.  They&#x27;re essentially the top tier of turntablism.  Most recently, I feel as though most Lot DJs spin sets mixing slightly downtempo beats, layered with positive tracks from decades ago.  A lot of the sets that I catch have an undercurrent of &amp;quot;happy&amp;quot; — so whether or not you want to have a Lot Radio stream running while working or projected on a wall while hanging out with friends will entirely depend on who&#x27;s on deck.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;indie-discotheque&quot;&gt;Indie Discotheque&lt;&#x2F;h2&gt;
+&lt;p&gt;Website: &lt;a href=&quot;https:&#x2F;&#x2F;www.indiediscotheque.com&quot;&gt;https:&#x2F;&#x2F;www.indiediscotheque.com&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Direct audio link: &lt;a href=&quot;http:&#x2F;&#x2F;stream.indiediscotheque.com:8000&#x2F;stream.mp4&quot;&gt;http:&#x2F;&#x2F;stream.indiediscotheque.com:8000&#x2F;stream.mp4&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Radio Garden link: &lt;a href=&quot;http:&#x2F;&#x2F;radio.garden&#x2F;listen&#x2F;indie-discotheque&#x2F;xUv7h3lI&quot;&gt;http:&#x2F;&#x2F;radio.garden&#x2F;listen&#x2F;indie-discotheque&#x2F;xUv7h3lI&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Hi, 🆔.  Hi, 🤽 matt.&lt;&#x2F;p&gt;
+&lt;p&gt;I never really hung out with the ID folks that much, but I&#x27;m glad to see that they&#x27;re thriving on their own platform after the Great Turntable.fm Schism.&lt;&#x2F;p&gt;
+&lt;p&gt;Maybe half of the ID tracks couldn&#x27;t really be classified as electronic, but I feel like they&#x27;ve really nailed down this genre, and this genre is really something that people seek out, so it&#x27;s certainly worth ending up on the list.&lt;&#x2F;p&gt;
+&lt;p&gt;Disco never died, folks.  It grew with the times.  So have we all.  So, if you want to know what indie music that just happens to sometimes be electronic or disco-esque sounds like, ID is the place for you.&lt;&#x2F;p&gt;
+&lt;p&gt;Also, you can totally play your own tracks on this station as well, much like the turntable.fm of old — just go to their site and click &amp;quot;play a song.&amp;quot;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;def-con-radio-on-soma-fm&quot;&gt;DEF CON Radio on Soma.FM&lt;&#x2F;h2&gt;
+&lt;p&gt;Website: &lt;a href=&quot;http:&#x2F;&#x2F;somafm.com&#x2F;defcon&#x2F;&quot;&gt;http:&#x2F;&#x2F;somafm.com&#x2F;defcon&#x2F;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Direct audio link: &lt;a href=&quot;http:&#x2F;&#x2F;ice1.somafm.com&#x2F;defcon-256-mp3&quot;&gt;http:&#x2F;&#x2F;ice1.somafm.com&#x2F;defcon-256-mp3&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Radio Garden link: &lt;a href=&quot;http:&#x2F;&#x2F;radio.garden&#x2F;listen&#x2F;soma-fm-def-con-radio&#x2F;EkUjR2JT&quot;&gt;http:&#x2F;&#x2F;radio.garden&#x2F;listen&#x2F;soma-fm-def-con-radio&#x2F;EkUjR2JT&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;DEF CON radio rules.  They&#x27;re definitely the quintessential workcore electronica.  It really is &amp;quot;Music for Hacking.&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;I have a soft spot for DEF CON radio because it was one of my first real forays into internet radio.  For a while there, I would quickly write down the silly quote from the bumpers between tracks so that I could look up the DEF CON talk that it was from and then watch it.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;deep-house-lounge&quot;&gt;Deep House Lounge&lt;&#x2F;h2&gt;
+&lt;p&gt;Website: &lt;a href=&quot;http:&#x2F;&#x2F;www.deephouselounge.com&#x2F;&quot;&gt;http:&#x2F;&#x2F;www.deephouselounge.com&#x2F;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Direct audio link: &lt;a href=&quot;http:&#x2F;&#x2F;198.15.94.34:8006&#x2F;stream&quot;&gt;http:&#x2F;&#x2F;198.15.94.34:8006&#x2F;stream&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Radio Garden link: &lt;a href=&quot;http:&#x2F;&#x2F;radio.garden&#x2F;listen&#x2F;deephouselounge&#x2F;Ckqk3yKW&quot;&gt;http:&#x2F;&#x2F;radio.garden&#x2F;listen&#x2F;deephouselounge&#x2F;Ckqk3yKW&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Deep House Lounge is an internet radio station based out of Philadelphia, PA.  They have an immensely underground vibe, but the tracks are great for all occasions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;more-stations-that-i-haven-t-written-up-yet&quot;&gt;More stations that I haven&#x27;t written up yet!&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Audioboxlive DJ Radio (Montréal, Canada)&lt;&#x2F;li&gt;
+&lt;li&gt;Housemasters Radio (Glascow, Scotland)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210328</title>
+                <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210328/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210328/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hackaday.com&#x2F;2021&#x2F;03&#x2F;22&#x2F;read-your-movies-as-automatically-generated-comic-books&#x2F;&quot;&gt;Read Your Movies As Automatically Generated Comic Books | Hackaday&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.mozilla.org&#x2F;security&#x2F;2021&#x2F;03&#x2F;22&#x2F;firefox-87-trims-http-referrers-by-default-to-protect-user-privacy&#x2F;&quot;&gt;Firefox 87 trims HTTP Referrers by default to protect user privacy - Mozilla Security Blog&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: web-dev, marketing&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.vice.com&#x2F;en&#x2F;article&#x2F;v7m9dy&#x2F;read-the-pentagons-20-page-report-on-its-own-meme&quot;&gt;Read the Pentagon’s 20-Page Report on Its Own Meme&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: funny&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.lafoo.com&#x2F;the-end-of-amp&#x2F;&quot;&gt;The End of AMP – lafoo – ramblings about the online world&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: google, web-dev&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maxbarry.com&#x2F;2021&#x2F;03&#x2F;11&#x2F;news.html&quot;&gt;Max Barry | Leprosy and Orphans&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It’s always tempting to combat fantasy with reality, but that’s a loser’s gambit. You can almost never persuade anyone with the truth. But you can get them to believe a better story.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Filed under: medicine, satire, history&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;mta.me&#x2F;&quot;&gt;MTA.ME&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: art, music, cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;brianschrader.com&#x2F;archive&#x2F;why-all-my-servers-have-an-8gb-empty-file&#x2F;&quot;&gt;Why All My Servers Have an 8GB Empty File - BiteofanApple&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: funny, sysadmin&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.discord.com&#x2F;slash-commands-are-here-8db0a385d9e6&quot;&gt;Slash Commands are Here!. Bots add incredible value to servers… | by Nelly | Mar, 2021 | Discord Blog&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: discord, cool&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;portfolio-starter.sb-ph.com&#x2F;&quot;&gt;Portfolio Starter&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: design, cool&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210321</title>
+                <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210321/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210321/</guid>
+                <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;partee.io&#x2F;2021&#x2F;02&#x2F;21&#x2F;climate-model-response&#x2F;&quot;&gt;Why are Climate models written in programming languages from 1950?&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: climate, fortran, programming&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;junglecoder.com&#x2F;blog&#x2F;learning-without-burnout&quot;&gt;Learning without Burnout&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: self-care, learning, career&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.vice.com&#x2F;en&#x2F;article&#x2F;y3g8wb&#x2F;hacker-got-my-texts-16-dollars-sakari-netnumber&quot;&gt;A Hacker Got All My Texts for $16&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: security&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;fantasy-soccer-kids-community-coronavirus-pandemic&#x2F;&quot;&gt;How Fantasy Soccer Keeps My Kids Connected and Happy&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: fpl, soccer&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.emilykager.com&#x2F;writing&#x2F;2021&#x2F;03&#x2F;20&#x2F;diversity.html&quot;&gt;“How Do We Hire More Women?”&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: career&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sports.yahoo.com&#x2F;inside-devastating-end-to-vcu-season-covid-19-ncaa-mens-tournament-014123044.html&quot;&gt;March Madness: COVID knocks VCU out of NCAA tournament&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+:-(&lt;&#x2F;p&gt;
+&lt;p&gt;Filed under: covid-19, VCU, sports, ncaam, future-history&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hackaday.com&#x2F;2021&#x2F;03&#x2F;21&#x2F;flip-dots-enter-the-realm-of-fine-art&#x2F;&quot;&gt;Flip-Dots Enter The Realm Of Fine Art | Hackaday&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: cool, art, design&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>fun &quot;hacker&quot; mode on macOS</title>
+                <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/musings/haxxor-mode/</link>
+                <guid>https://notes.joewoods.dev/musings/haxxor-mode/</guid>
+                <description>&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;hax.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I used to use an app called &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nocturneapp&#x2F;nocturne&quot;&gt;Nocturne&lt;&#x2F;a&gt; to do this on a version of OS X long ago, but now it&#x27;s just built in to the operating system.&lt;&#x2F;p&gt;
+&lt;p&gt;Basically, you want to do two things:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Enable the color filter, and slam it all the way to one color.  I highly recommend green or red.&lt;&#x2F;li&gt;
+&lt;li&gt;Optional:  enable high-contrast mode.&lt;&#x2F;li&gt;
+&lt;li&gt;Optional:  add the accessibility menu to your menu bar to quickly toggle it on and off.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Why would you want to do this?&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;It looks cool.&lt;&#x2F;li&gt;
+&lt;li&gt;Less likely that you&#x27;ll be distracted — or distracting — when on your laptop in class or at work.&lt;&#x2F;li&gt;
+&lt;li&gt;Higher contrast means you can have your laptop screen be at a lower brightness and still be able to read it.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Unlike Nocturne, the default macOS accessibility setting only acts as a color filter and doesn&#x27;t really do any color replacement, so out of the box, you&#x27;re only going to be able to set your monitor to full green, red, or blue.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>article roundup: 20210314</title>
+                <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/roundup/20210314/</link>
+                <guid>https://notes.joewoods.dev/roundup/20210314/</guid>
+                <description>&lt;p&gt;(I cheated this week, using the last two weeks worth of content.)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.granolashotgun.com&#x2F;granolashotguncom&#x2F;la-la-la-la-la-la&quot;&gt;La La La La La La — GS&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;But I’m beginning to think the value of homes isn’t rising so much as the worth of the dollar is rapidly declining. You get the same old house, but you need a whole lot more dollars to pay for it. Just a random thought…&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Filed under: property, economics&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;increment.com&#x2F;reliability&#x2F;failure-is-okay&#x2F;&quot;&gt;Everything is broken, and it’s okay – Increment: Reliability&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Filed under: programming, leadership, required-reading, best-of&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;singularityhub.com&#x2F;2021&#x2F;03&#x2F;01&#x2F;graphene-nano-origami-could-take-us-past-the-end-of-moores-law&#x2F;&quot;&gt;Graphene &#x27;Nano-Origami&#x27; Could Take Us Past the End of Moore&#x27;s Law&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+I&#x27;ll believe it when I see it&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>migrated notes to zola</title>
+                <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/projects/zola/</link>
+                <guid>https://notes.joewoods.dev/projects/zola/</guid>
+                <description>&lt;p&gt;Well, I went ahead and decided to migrate this little corner of the internet to be using the static site generator &lt;a href=&quot;getzola.org&#x2F;&quot;&gt;zola&lt;&#x2F;a&gt;.  Though maintaining my own static site generator was fun, I really wanted to make sure this site has an RSS feed, and I just didn&#x27;t feel like writing that by hand.  Also, by using an existing CI config I already had set up, publishing this site is now as easy as just doing a git commit, and it &amp;quot;just works.&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m a little sad that I&#x27;ve made some compromises so that I&#x27;m not longer actually owning a lot of the infrastructure here, but I think the trade-offs are worth it.  And just because I&#x27;m not using a static site generator that I hacked together anymore, doesn&#x27;t mean that this space is no longer a space I can hack around on!  Probably quite the opposite, really.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>entertaining youtube channels which make certain topics accessible</title>
+                <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/musings/learning-things-with-youtube/</link>
+                <guid>https://notes.joewoods.dev/musings/learning-things-with-youtube/</guid>
+                <description>&lt;ul&gt;
+&lt;li&gt;Automotive repair — &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=2oKMdiW_BvA&amp;amp;list=PLFl907chpCa4WmBZlSv2FfWTiFAwvUeT6&quot;&gt;MONEYPIT, the Miata Build-Along Show with Zach Jobe&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Mountain biking — &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCu8YylsPiu9XfaQC74Hr_Gw&quot;&gt;Berm Peak (previously Seth&#x27;s Bike Hacks) with Seth Alvo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Playing go&#x2F;weiqi&#x2F;baduk — &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;NickSibicky&quot;&gt;Nick Sibicky&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>what was the name of that macOS application again?</title>
+                <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/musings/macos-applications/</link>
+                <guid>https://notes.joewoods.dev/musings/macos-applications/</guid>
+                <description>&lt;p&gt;Some macOS applications are well known.  Others are maybe well-known to others, but I can seriously &lt;em&gt;never&lt;&#x2F;em&gt; remember their names.  This is a list of some of those; at least, the ones that I was able to remember.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.derlien.com&#x2F;&quot;&gt;Disk Inventory X&lt;&#x2F;a&gt; is a disk usage utility for Mac OS X. (Free, GPL)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;limechat.net&#x2F;mac&#x2F;&quot;&gt;LimeChat&lt;&#x2F;a&gt; is an IRC client. (Free, closed-source)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mamp.info&#x2F;en&#x2F;mamp&#x2F;mac&#x2F;&quot;&gt;MAMP&lt;&#x2F;a&gt; is a cross-platform, free web development solution with Apache, Nginx, PHP &amp;amp; MySQL.  (Free with a paid tier, close-source)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;superhighfives.com&#x2F;pika&quot;&gt;Pika&lt;&#x2F;a&gt; is an open-source colour picker app for macOS.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;omz-software.com&#x2F;vidl&#x2F;&quot;&gt;ViDL&lt;&#x2F;a&gt; — Download Web Videos Easily. (Free, closed-source)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>my 2020 with spotify</title>
+                <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/music/2020-wrapped/</link>
+                <guid>https://notes.joewoods.dev/music/2020-wrapped/</guid>
+                <description>&lt;iframe src=&quot;https:&#x2F;&#x2F;open.spotify.com&#x2F;embed&#x2F;playlist&#x2F;37i9dQZF1EM8mqmUuD5hNO&quot; width=&quot;100%&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;1.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;2.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;3.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;4.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;5.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;6.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;7.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;8.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;9.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;10.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;11.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;12.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;13.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;14.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;15.png&quot; style=&quot;max-width: 400px; margin: 0 auto;&quot;&#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020-wrapped&#x2F;16.jpeg&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>what&#x27;s the new bedrock to make a community?</title>
+                <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/musings/community-bedrock/</link>
+                <guid>https://notes.joewoods.dev/musings/community-bedrock/</guid>
+                <description>&lt;p&gt;This is an idea:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;An online community where professionals in any intersection between technology and literature can come together, share ideas, and solve problems.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Here are some technologies:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mailing lists&lt;&#x2F;li&gt;
+&lt;li&gt;Forums&lt;&#x2F;li&gt;
+&lt;li&gt;Newsletters&lt;&#x2F;li&gt;
+&lt;li&gt;Facebook Groups&lt;&#x2F;li&gt;
+&lt;li&gt;Discord Servers&lt;&#x2F;li&gt;
+&lt;li&gt;Slack Groups&lt;&#x2F;li&gt;
+&lt;li&gt;Mastodon Instances&lt;&#x2F;li&gt;
+&lt;li&gt;IRC Channels&lt;&#x2F;li&gt;
+&lt;li&gt;Subreddits&lt;&#x2F;li&gt;
+&lt;li&gt;Lobste.rs-like link-share site&lt;&#x2F;li&gt;
+&lt;li&gt;Blog post comments&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;None of those technologies feel like a good place to start the community I want to build.&lt;&#x2F;p&gt;
+&lt;p&gt;If you have any ideas, I&#x27;d love to hear them!  You can reach out to me at joewoods@fastmail.com.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>getting a widget of recent posts with thumbnails on wordpress</title>
+                <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/projects/wordpress-thumbnails/</link>
+                <guid>https://notes.joewoods.dev/projects/wordpress-thumbnails/</guid>
+                <description>&lt;p&gt;Man, this was a frustrating thing to figure out.  Today&#x27;s problem:  on Gutenburg WordPress, how do I add thumbnails to the recent posts widget that gets embedded in a page?&lt;&#x2F;p&gt;
+&lt;p&gt;Turns out that WordPress now has two things that it calls &amp;quot;widgets.&amp;quot;  The embeddable widgets are still a bit of a mystery to me, but I had a hard time figuring out how to add the post&#x27;s thumbnail to the existing widget, and all of the existing &amp;quot;widget&amp;quot; plugins that did support other properties like thumbnails didn&#x27;t seem to be embeddable in any way!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-answer&quot;&gt;the answer&lt;&#x2F;h2&gt;
+&lt;p&gt;You want the &lt;a href=&quot;https:&#x2F;&#x2F;wordpress.org&#x2F;plugins&#x2F;display-posts-shortcode&#x2F;&quot;&gt;Display Posts Shortcode plugin&lt;&#x2F;a&gt;.  Get this and add shortcode blocks to your pages based on their documentation.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>anki advice</title>
+                <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/musings/anki-advice/</link>
+                <guid>https://notes.joewoods.dev/musings/anki-advice/</guid>
+                <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;M Today at 8:03 PM&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+@joe i&#x27;m anki decking, r u proud of me&lt;br &#x2F;&gt;
+&lt;strong&gt;joe Today at 8:04 PM&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+Run while you still can&lt;br &#x2F;&gt;
+&lt;strong&gt;M Today at 8:05 PM&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+any pro strats i should know before i start this deck&lt;br &#x2F;&gt;
+&lt;strong&gt;joe Today at 8:06 PM&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+Let me get back to you once I finish some flashcards ._.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;anki-pro-strats&quot;&gt;anki pro strats&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Don&#x27;t be afraid to abandon a note.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t be afraid to abandon a deck.&lt;&#x2F;li&gt;
+&lt;li&gt;Change things up if you hit a plateau.  Reduce the number of daily new cards you&#x27;re getting, or maybe increase them.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t let a &amp;quot;complete&amp;quot; deck lapse.  I learned &lt;a href=&quot;https:&#x2F;&#x2F;ankiweb.net&#x2F;shared&#x2F;info&#x2F;685421036&quot;&gt;so much about art in 2018&lt;&#x2F;a&gt;, then stopped reviewing the cards once I&#x27;d &amp;quot;finished&amp;quot; the deck; once I came back to it in 2020, I had to relearn a really large portion of them.  Keep it up!&lt;&#x2F;li&gt;
+&lt;li&gt;You must do it every day.  Don&#x27;t let the backlog start to pile up.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t try to add cards you haven&#x27;t at least been exposed to in some way.  If you&#x27;re downloading a deck from the internet, go through every card you want to learn from it first.  (Yes, every card.  This may actually more than one day for some decks.)&lt;&#x2F;li&gt;
+&lt;li&gt;Anki compounds very quickly.  Your first few reviews will only take a few minutes.  Don&#x27;t ramp up to too many cards too quickly.&lt;&#x2F;li&gt;
+&lt;li&gt;Start small and work your way up.  Set a goal, achieve it, then keep climbing.&lt;&#x2F;li&gt;
+&lt;li&gt;20 new cards a day — Anki&#x27;s default for a deck — is way too much, in my opinion.  You may want to reduce this.&lt;&#x2F;li&gt;
+&lt;li&gt;Keep routines.  Doing your flashcards when you&#x27;re already exhausted and just want to go to bed is one of the worst feelings in the world.&lt;&#x2F;li&gt;
+&lt;li&gt;Sometimes you just won&#x27;t be in the mindset; you&#x27;ll start your reviews and things just won&#x27;t click, or you won&#x27;t be able to remember things you know you should be able to.  Just take a quick break and come back soon.&lt;&#x2F;li&gt;
+&lt;li&gt;Let Anki take over your life.  Make decks for weird stuff; I have a flashcard for my upstairs neighbor&#x27;s dog&#x27;s name so I don&#x27;t forget.&lt;&#x2F;li&gt;
+&lt;li&gt;I generally compose new cards on desktop and review on mobile, unless something weird is going on.&lt;&#x2F;li&gt;
+&lt;li&gt;Seriously, get the mobile app.  It&#x27;s worth it.&lt;&#x2F;li&gt;
+&lt;li&gt;The Android app has a desktop widget that shows you how many cards you have left to review, as well as the amount of time it thinks it&#x27;ll take you.  Put it on your home screen.&lt;&#x2F;li&gt;
+&lt;li&gt;Do not trust Anki&#x27;s estimates as to how long things will take you.&lt;&#x2F;li&gt;
+&lt;li&gt;Stare at those beautiful graphs.  You made those graphs.  Be proud of those graphs.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;joe Today at 8:28 PM&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;any pro strats i should know before i start this deck&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;M:  https:&#x2F;&#x2F;notes.joewoods.dev&#x2F;musings&#x2F;anki-advice&lt;br &#x2F;&gt;
+&lt;strong&gt;M Today at 8:28 PM&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+&lt;em&gt;plugs own blog&lt;&#x2F;em&gt;&lt;br &#x2F;&gt;
+&lt;strong&gt;joe Today at 8:28 PM&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+Excuse me&lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;blog.joewoods.dev&quot;&gt;blog.joewoods.dev&lt;&#x2F;a&gt; is my blog&lt;br &#x2F;&gt;
+That&#x27;s my wiki&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>how to write about descriptive data in plain text</title>
+                <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/musings/descriptive-data-plain-text/</link>
+                <guid>https://notes.joewoods.dev/musings/descriptive-data-plain-text/</guid>
+                <description>&lt;p&gt;This morning, I decided that I wanted to draw up a big chart of the daily routines that I&#x27;ve mapped out for myself, along with the times that I&#x27;ve assigned for myself to actually do them, and to compare it against the times that I actually did the things.  (You know, if at all.)  The hope is that by actually looking at this data right in front of me, I can reconcile the differences a little bit and make sure my routines continue to work without effort.&lt;&#x2F;p&gt;
+&lt;p&gt;But this betrays an interesting question:  how would I write this sort of table in a way that could be shared?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;option-one-don-t&quot;&gt;option one: don&#x27;t&lt;&#x2F;h2&gt;
+&lt;p&gt;Honestly, maybe don&#x27;t?  If you&#x27;re running into this problem, is it really a problem to just share a spreadsheet instead?  If you don&#x27;t have spreadsheet software handy while you&#x27;re composing this, you could just hand-write a csv and then convert the file name later when you&#x27;re sharing it.  (I actually do this all the time!)&lt;&#x2F;p&gt;
+&lt;p&gt;So, as a concrete example, here&#x27;s what the first few lines would look like in my csv:&lt;&#x2F;p&gt;
+&lt;!-- I know this is messed up, but I wrote this when I didn&#x27;t have a lot of time to actually fix the code block display here, so I&#x27;m leaving it.  Sorry! --&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;span style=&quot;color:#c0c5ce;&quot;&gt;time,planned,reality
+06:30,&amp;quot;wake up, put away dishes, water pets, stretch, and
+review my goal for the day&amp;quot;,&amp;quot;woke up, stared into my
+phone while drinking coffee and trying to wake up&amp;quot;
+07:00,start my flashcards,still scrolling on my phone
+&lt;&#x2F;span&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;But you might be in a situation where the closest you could get to a good user experience with this text would be &amp;quot;okay, now save this text as a CSV and open it in your favorite spreadsheet editor.&amp;quot;  That doesn&#x27;t seem to cut it!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;option-two-no-really-don-t&quot;&gt;option two:  no, really, don&#x27;t&lt;&#x2F;h2&gt;
+&lt;p&gt;Maybe descriptive text would be better instead?  That way you&#x27;re conveying the real meaning of the text you&#x27;re writing, and potentially cutting out extraneous information; those things, combined with a more presentable format, means that your message might have a better chance of coming across the way you want it to.&lt;&#x2F;p&gt;
+&lt;p&gt;An example:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I woke up at 6:30 a.m.  I have the first half hour after I wake up set aside for small chores, like watering the pets, but instead I don&#x27;t accomplish anything but staring at my phone.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;option-three-a-table&quot;&gt;option three:  a table&lt;&#x2F;h2&gt;
+&lt;p&gt;If you know your text is always going to be read in an environment where the font is fixed width, you can always use a table in your text, but I think it&#x27;s unlikely that this is going to suit your needs, either.&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;span style=&quot;color:#c0c5ce;&quot;&gt;| time  | expectation        | reality                  |
+|-------|--------------------|--------------------------|
+| 06:30 | wake up, do chores | woke up, stared at phone |
+| 07:00 | do flashcards      | still scrolling          |
+&lt;&#x2F;span&gt;&lt;&#x2F;pre&gt;&lt;h2 id=&quot;the-real-answer-very-long-form-text&quot;&gt;the real answer:  very long form text&lt;&#x2F;h2&gt;
+&lt;p&gt;So here&#x27;s what I came up with:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Time: 6:30&lt;br &#x2F;&gt;
+Expectation:  wake up, put away dishes, water pets, stretch, and review my goal for the day&lt;br &#x2F;&gt;
+Reality:  woke up, stared into my phone while drinking coffee and trying to wake up&lt;&#x2F;p&gt;
+&lt;p&gt;Time: 7:00&lt;br &#x2F;&gt;
+Expectation:  start my flashcards&lt;br &#x2F;&gt;
+Reality:  still staring at phone&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Clearly, that&#x27;s going to take up a lot of space. But it &lt;em&gt;definitely&lt;&#x2F;em&gt; meets the requirements.  I think I&#x27;ll just write the csv by hand instead, though.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>on obsidian.md</title>
+                <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/musings/on-obsidian/</link>
+                <guid>https://notes.joewoods.dev/musings/on-obsidian/</guid>
+                <description>&lt;p&gt;Obsidian didn&#x27;t work for me.  I gave it a drive for about a month or so, attempting to slightly modify my workflow to fit it, but ultimately, I&#x27;m going to move back to a slightly modified version of my existing note-taking routine:  VSCode.&lt;&#x2F;p&gt;
+&lt;p&gt;When I first checked out Obsidian, I thought, &amp;quot;sweet, this will help me be more organized without having to really change what I&#x27;m doing.&amp;quot;  Starting up with Obsidian is just as easy as opening the folder full of markdown files that I&#x27;m already using.  So, really, other than reading documentation, all I had to do was download it and get started.&lt;&#x2F;p&gt;
+&lt;p&gt;But this doesn&#x27;t actually leverage what Obsidian can do for you.  I attempted to reorganize the way that I took notes to some degree, breaking off more projects and landing zones from my daily notes document into their own space.  It didn&#x27;t really work, though; I ended up with a sort of half-baked zettelkasten that felt all over the place.  The last thing I&#x27;d want is for the tool that helps me organize my thoughts to feel unorganized.&lt;&#x2F;p&gt;
+&lt;p&gt;So, to me, Obsidian felt like it tried to do too many things at once, and not very well.  It&#x27;s not an &amp;quot;IDE&amp;quot;; there are plugins, but they just don&#x27;t really match what I get out of writing plain markdown in VSCode.  For example, I just opened on of my markdown files that I&#x27;d written in Obsidian in VSCode, and immediately saw all of the trailing whitespace that I&#x27;d just left hanging around highlighted in bright red.  And, of course, the code snippets I&#x27;d embedded in the first file I&#x27;d opened had syntax highlighting in them, unlike in Obsidian!&lt;&#x2F;p&gt;
+&lt;p&gt;Also, I just didn&#x27;t really feel like I needed Yet Another Electron Application open to take notes.  Switching between writing notes and writing code should not be distracting — doing so with VSCode is, in my mind, seamless.  Switching between Obsidian and VSCode still always required a context switch for me.&lt;&#x2F;p&gt;
+&lt;p&gt;The other benefits I thought Obsidian could have brought to the table just didn&#x27;t work out for me, either.  Obsidian has a unified aesthetic, and seen from far away, it is quite pretty.  But that got stale for me pretty fast, and I found myself again preferring my hyper-personalized VSCode setup.  I found the places where Obsidian took over and formatted your markdown for you just not worth it — I guess I just prefer headers to be boldly highlighted, but not actually bigger when I&#x27;m writing documents.  At the end of the day, I just found my VSCode theme more delightful to look at.  I &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tjwds&#x2F;obsidian-minimal-iceburg&quot;&gt;even tried theming Obsidian&lt;&#x2F;a&gt;, but it still just couldn&#x27;t hold up.&lt;&#x2F;p&gt;
+&lt;p&gt;There are very many valid complaints to be made about Microsoft, but VSCode is licensed under MIT.  Microsoft seems to have found shepherding this editor that I really, really like profitable, but maybe a lot of that is because they&#x27;re big name players that can afford to give the project the attention it deserves.  Obsidian is closed-source, and though the way they seek to gain a profit off the editor isn&#x27;t creepy yet, I could see it easily growing that way.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;concrete-ui-complaints&quot;&gt;Concrete UI complaints&lt;&#x2F;h2&gt;
+&lt;p&gt;So:  that was a lot of abstract complaints, but there were quite a few day-to-day UI quirks about Obsidian that made me quit it.  Some of these are just an artifact of my having gained muscle memory for one editor and then attempting to switch to another, but others, I think, are valid complaints, and even those that are &lt;em&gt;clearly&lt;&#x2F;em&gt; a me problem could be resolved by letting things be a little more configurable.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;i-just-don-t-get-the-way-that-changing-between-files-works&quot;&gt;I just don&#x27;t get the way that changing between files works&lt;&#x2F;h3&gt;
+&lt;p&gt;I could not wrap my head around pressing ⌘O to bring up the file switcher, but this is probably because Obsidian&#x27;s &amp;quot;action&amp;quot; command pallet shortcut is ⌘P, which is subtly different from VSCode, where the command pallet is in &amp;quot;file&amp;quot; mode on ⌘P and &amp;quot;action&amp;quot; mode with ⌘⇧P (or, my preferred ⌘P then typing &lt;code&gt;&amp;gt;&lt;&#x2F;code&gt;).  I know that this is mostly a me problem, but this seems like a pretty hard break from the way any other editor does things.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;new-files&quot;&gt;New files&lt;&#x2F;h3&gt;
+&lt;p&gt;I kept pressing ⌘N to create a new file and ⌘V to dump my clipboard buffer in one single action, because this is muscle memory for me at this point, but if you do this in Obsidian, you&#x27;ll end up with your paste buffer as the file name, and you can&#x27;t just ⌘A to select and delete your mistake, because you can&#x27;t ⌘A within the title.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;folders&quot;&gt;Folders&lt;&#x2F;h3&gt;
+&lt;p&gt;Folder support in Obsidian is not great.  You can either have all new files be created at the top level, or be put into the same directory as the file you just had open (?!).  This means that I was just constantly losing files, turning to my terminal to try to find where the heck the file actually went.  VSCode&#x27;s file browser does this pretty great thing where it&#x27;ll focus the file location in the file explorer when you focus on a file in your editor; it seems to me the Obsidian &lt;em&gt;must&lt;&#x2F;em&gt; get this feature in order for me to be able to actually use it.  Trying to find a file among many, many folders all containing many, many files was infinitely frustrating.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;vscode-s-just-better-about-workspaces-and-opening-files&quot;&gt;VSCode&#x27;s just better about workspaces and opening files&lt;&#x2F;h3&gt;
+&lt;p&gt;I am constantly reaching for the terminal command &lt;code&gt;open .&lt;&#x2F;code&gt;.  As far as I know, you can&#x27;t do that with Obsidian; nor is it really designed for opening arbitrary files to edit outside of the context of a project.&lt;&#x2F;p&gt;
+&lt;p&gt;I have a lot of workspace-specific configurations in VSCode, like the extension Peacock, which allows me to say, mark an editor as the bright blue &amp;quot;this is the active repository&amp;quot; editor so that I can very easily distinguish it from a reference repository I have open.  Yeah, I have multiple checkouts of a few projects, I know, I know.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;editing-often-feels-clunky&quot;&gt;Editing often feels clunky&lt;&#x2F;h3&gt;
+&lt;p&gt;Writing just didn&#x27;t feel like a pleasant experience to me with Obsidian.  I honestly don&#x27;t have a lot of concrete data to point to &lt;em&gt;why&lt;&#x2F;em&gt;, it just didn&#x27;t feel good!&lt;&#x2F;p&gt;
+&lt;p&gt;The only actual issue I can remember is the frustrating ambiguity as to what an asterisk is about to do in markdown.  I make a lot of unordered lists when organizing projects, notes, or just writing about things — this article, for example, was written in my typical writing style of having a big ol&#x27; unordered list at the bottom that I slowly turned into paragraphs.&lt;&#x2F;p&gt;
+&lt;p&gt;Wrapping something in asterisks in markdown creates emphasis, though, so Obsidian will add another asterisk &lt;em&gt;after&lt;&#x2F;em&gt; your current cursor location when you type one.  But, if your line starts with an asterisk and you press enter, Obsidian will create a new line for you that starts with an asterisk.&lt;&#x2F;p&gt;
+&lt;p&gt;Maybe this is the behavior that other people want, but it often broke my flow as I was writing.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;panes-and-tabs&quot;&gt;Panes and tabs&lt;&#x2F;h3&gt;
+&lt;p&gt;I also just found the pane model frustrating.  Obsidian (as far as I know) doesn&#x27;t support tabs, which means in order to open another file, it must be in another pane, or it&#x27;ll close the editor you had open in order to open the new file.  To keep a file open, you can pin it, and then opening a new file will create a new split pane, which is kind of nice, but again, I just prefer the way that VSCode does it.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;organization&quot;&gt;Organization&lt;&#x2F;h3&gt;
+&lt;p&gt;I&#x27;d prefer if Obsidian didn&#x27;t keep around empty files with the title &amp;quot;Untitled&amp;quot; — I would often find myself opening and then closing a new file, so at the end of the day, I&#x27;d have at least one completely empty &amp;quot;Untitled.md&amp;quot; file to delete from my notes.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;other-thoughts&quot;&gt;Other thoughts&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;VSCode and git go hand-in-hand, and I like using git to back up and see how my notes have changed over time.  VSCode makes unstaged changes very visible, whereas Obsidian doesn&#x27;t!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>A Modest Proposal to Start a Commune in Wyoming</title>
+                <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+                <link>https://notes.joewoods.dev/musings/wyoming/</link>
+                <guid>https://notes.joewoods.dev/musings/wyoming/</guid>
+                <description>&lt;p&gt;• many leftists might take objection to electoralism, but if you play the game to the same degree that the right-wing parties in the US have, it becomes clear how relatively easy it is to warp this system to support Leftist goals&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
