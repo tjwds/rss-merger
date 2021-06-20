@@ -19,9 +19,10 @@ const fetchAndMergeFeeds = async () => {
 
   feedOne.items.sort((a, b) => a.pubDate - b.pubDate).reverse();
 
+  delete feedOne.id; // ???
   console.log(toXML(feedOne));
 
   return feedOne;
 };
 
-fetchAndMergeFeeds()
+fetchAndMergeFeeds();
